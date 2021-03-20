@@ -24,3 +24,5 @@ http://internetowa.tv/?c=hlsPlay&channel=ppv&token=f2795a811ca4c1ca09ef460d5ed2c
 #EXTINF:-1 tvg-logo="https://www.fite.tv/thumbs/v/2p8wk/1/2p8wk_1614077489/ksw-59-800x1280fit.jpg" ,KSW 59 - 8
 http://internetowa.tv/?c=hlsPlay&channel=ppv&token=51808fced35ace174dead0f1fa68dff31057fbb7d102c3be3cff6b6eb30559e2b6d13235ebb6b53b83ba662ec614998793c133cec95c55d228eed03996623455
 
+#EXTINF:-1 tvg-logo="https://www.fite.tv/thumbs/v/2p8wk/1/2p8wk_1614077489/ksw-59-800x1280fit.jpg" ,KSW 59 - 9
+http://88.156.105.215:8001/1:0:1:3E30:2EE0:13E:820000:0:0:0
