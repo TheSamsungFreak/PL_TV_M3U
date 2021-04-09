@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="4FUN TV [Polish]" tvg-logo="http://meichsner.tel/TVList/img/7432.jpg",4FUN TV [Polish]
+https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
+#EXTINF:-1 tvg-name="TRUSO.TV (Elbląg) [Polish]" tvg-logo="http://meichsner.tel/TVList/img/7435.png",TRUSO.TV (Elbląg) [Polish]
+http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Kujawy [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1397.jpg",TV Kujawy [Polish]
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-name="TVP3 Bialystok [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1401.png",TVP3 Bialystok [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+#EXTINF:-1 tvg-name="TVP3 Bydgoszcz [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1402.png",TVP3 Bydgoszcz [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+#EXTINF:-1 tvg-name="TVP 3 Gdansk [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1403.png",TVP 3 Gdansk [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+#EXTINF:-1 tvg-name="TVP3 Gorzow Wielkopolski [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1404.png",TVP3 Gorzow Wielkopolski [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
+#EXTINF:-1 tvg-name="TVP3 Katowice [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1405.png",TVP3 Katowice [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+#EXTINF:-1 tvg-name="TVP 3 Kielce [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1406.png",TVP 3 Kielce [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
+#EXTINF:-1 tvg-name="TVP 3 Krakow [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1407.png",TVP 3 Krakow [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+#EXTINF:-1 tvg-name="TVP 3 Lodz [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1408.png",TVP 3 Lodz [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
+#EXTINF:-1 tvg-name="TVP 3 Lublin [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1409.png",TVP 3 Lublin [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
+#EXTINF:-1 tvg-name="TVP3 Olsztyn [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1410.png",TVP3 Olsztyn [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
+#EXTINF:-1 tvg-name="TVP 3 Opole [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1411.png",TVP 3 Opole [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
+#EXTINF:-1 tvg-name="TVP 3 Poznan [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1412.png",TVP 3 Poznan [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
+#EXTINF:-1 tvg-name="TVP3 Rzeszow [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1413.png",TVP3 Rzeszow [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
+#EXTINF:-1 tvg-name="TVP3 Szczecin [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1414.png",TVP3 Szczecin [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
+#EXTINF:-1 tvg-name="TVP3 Warszawa [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1415.png",TVP3 Warszawa [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+#EXTINF:-1 tvg-name="TVP3 Wroclaw [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1416.png",TVP3 Wroclaw [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
+#EXTINF:-1 tvg-name="TVP Info [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1400.jpg",TVP Info [Polish]
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+#EXTINF:-1 tvg-name="TVP Parlament [Polish]" tvg-logo="http://meichsner.tel/TVList/img/7438.jpg",TVP Parlament [Polish]
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
+#EXTINF:-1 tvg-name="TV Regionalna [Polish]" tvg-logo="http://meichsner.tel/TVList/img/7436.png",TV Regionalna [Polish]
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1 tvg-name="TV Republika PL [Polish]" tvg-logo="http://meichsner.tel/TVList/img/5784.png",TV Republika PL [Polish]
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+#EXTINF:-1 tvg-name="TVT Rybnik [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1417.png",TVT Rybnik [Polish]
+http://176.107.129.219/media/tvt/index.m3u8
+#EXTINF:-1 tvg-name="TVT Zgorzelec [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1419.png",TVT Zgorzelec [Polish]
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 tvg-name="TV Torun [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1398.png",TV Torun [Polish]
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 tvg-name="TV Trwam [Polish]" tvg-logo="http://meichsner.tel/TVList/img/7437.png",TV Trwam [Polish]
+https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
+#EXTINF:-1 tvg-name="Telewizja Pogranicze [Polish]" tvg-logo="http://meichsner.tel/TVList/img/5783.jpg",Telewizja Pogranicze [Polish]
+http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Telewizja Republika [Polish]" tvg-logo="http://meichsner.tel/TVList/img/7434.png",Telewizja Republika [Polish]
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
+#EXTINF:-1 tvg-name="Twoja TV [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1420.png",Twoja TV [Polish]
+http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+#EXTINF:-1 tvg-name="dla ciebie tv [Polish]" tvg-logo="http://meichsner.tel/TVList/img/1386.png",dla ciebie tv [Polish]
+http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
