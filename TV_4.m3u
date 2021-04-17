@@ -1,4 +1,4 @@
-# EXTM3U
+#EXTM3U
 #EXTINF: 0 tvg-id = "13 Ulica" tvg-name = "13 Ulica" tvg-logo = "http://logo.plusx.tv/logo/13%20Ulica%20HD.png" timeshift = "5" catchup = "default" catchup-source = "http://54.36.168.131/325/mono-${start}-${timestamp}.m3u8?token=robertjapan73slayer6662222" group-title = "Rozrywka", 13 Ulica HD
 http://de1cdn.plusx.tv:18889/325/mono.m3u8?token=robertjapan73slayer6662222
 #EXTINF: 0 tvg-id = "4 Fun Dance" tvg-name = "4Fun Dance" tvg-logo = "http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png" timeshift = "5 "catchup =" default "catchup-source =" http://54.36.168.131/324/mono-${start}-${timestamp}.m3u8?token=robertjapan73slayer6662222 "group-title =" Muzyka ", 4Fun Dance
