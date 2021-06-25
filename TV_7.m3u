@@ -1,397 +1,396 @@
 #EXTM3U
-#EXTINF:0 tvg-id="13 Ulica" tvg-name="13 Ulica" tvg-logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/325/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,13 Ulica HD
-http://nl1cdn.plusx.tv:8889/325/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="4 Fun Dance" tvg-name="4Fun Dance" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/324/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,4Fun Dance
-http://nl1cdn.plusx.tv:8889/324/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="4Fun Gold" tvg-name="4Fun Gold Hits" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Hits.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/323/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,4Fun Gold Hits
-http://nl1cdn.plusx.tv:8889/323/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="4fun TV" tvg-name="4FUN.TV" tvg-logo="http://logo.plusx.tv/logo/4Fun.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/322/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,4Fun.TV
-http://nl1cdn.plusx.tv:8889/322/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/318/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,AMC HD
-http://nl1cdn.plusx.tv:8889/318/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/314/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,AXN Black
-http://nl1cdn.plusx.tv:8889/314/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/313/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,AXN HD
-http://nl1cdn.plusx.tv:8889/313/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="AXN Spin" tvg-name="AXNSpinHD" tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/312/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,AXN Spin HD
-http://nl1cdn.plusx.tv:8889/312/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/311/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,AXN White
-http://nl1cdn.plusx.tv:8889/311/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Adventure" tvg-name="Adventure" tvg-logo="http://logo.plusx.tv/logo/Adventure%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/320/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Adventure HD
-http://nl1cdn.plusx.tv:8889/320/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Active Family" tvg-name="Active Family" tvg-logo="http://epg.ovh/logo/Active+Family.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/321/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Active Family
-http://nl1cdn.plusx.tv:8889/321/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Ale Kino+" tvg-name="Ale Kino!" tvg-logo="http://logo.plusx.tv/logo/Ale%20Kino+%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/319/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Ale Kino+ HD
-http://nl1cdn.plusx.tv:8889/319/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://logo.plusx.tv/logo/Animal%20Planet%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/317/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Animal Planet HD
-http://nl1cdn.plusx.tv:8889/317/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="ATM Rozrywka" tvg-name="ATM Rozrywka" tvg-logo="http://epg.ovh/logo/ATM+Rozrywka.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/316/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,ATM Rozrywka
-http://nl1cdn.plusx.tv:8889/316/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="BBC Brit" tvg-name="BBC-Brit" tvg-logo="http://logo.plusx.tv/logo/BBC%20Brit%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/309/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,BBC Brit HD
-http://nl1cdn.plusx.tv:8889/309/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="http://logo.plusx.tv/logo/BBC%20Earth%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/307/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,BBC Earth HD
-http://nl1cdn.plusx.tv:8889/307/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="BBC First" tvg-name="BBC Fisrt" tvg-logo="http://logo.plusx.tv/logo/BBC%20Frist.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/306/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,BBC First HD
-http://nl1cdn.plusx.tv:8889/306/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="http://logo.plusx.tv/logo/BBC%20Lifestyle%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/305/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,BBC Lifestyle HD
-http://nl1cdn.plusx.tv:8889/305/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" tvg-logo="http://logo.plusx.tv/logo/BBC%20Cbeebies.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/308/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,BBC CBeebies
-http://nl1cdn.plusx.tv:8889/308/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Baby TV" tvg-name="BabyTV" tvg-logo="http://logo.plusx.tv/logo/Baby%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/310/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,Baby TV
-http://nl1cdn.plusx.tv:8889/310/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://logo.plusx.tv/logo/Boomerang%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/303/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,Boomerang HD
-http://nl1cdn.plusx.tv:8889/303/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Biznes24" tvg-name="Biznes24" tvg-logo="https://media2.pl/g/750/73501.jpg" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/2020/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Informacje" ,Biznes 24 HD
-http://nl1cdn.plusx.tv:8889/2020/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Canal+ Dokument" tvg-name="Canal+ Discovery HD" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Discovery%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/301/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Canal+ Dokument HD
-http://nl1cdn.plusx.tv:8889/301/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/300/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Canal+ Family HD
-http://nl1cdn.plusx.tv:8889/300/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Canal+ Film" tvg-name="CANAL+ Film" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/296/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Canal+ Film HD
-http://nl1cdn.plusx.tv:8889/296/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Museum 4K " tvg-name="Museum" tvg-logo="http://epg.ovh/logo/Canal++4K.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/44490/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="4k" ,Museum 4K
-http://nl1cdn.plusx.tv:8889/44490/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Canal+" tvg-name="Canal +" tvg-logo="http://logo.plusx.tv/logo/Canal+%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/295/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,CANAL+ Premium HD
-http://nl1cdn.plusx.tv:8889/295/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Now.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/299/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Canal+ Now HD
-http://nl1cdn.plusx.tv:8889/299/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="CanalPlusSeriale.pl" tvg-name="CANAL+ Seriale" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/294/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Canal+ Seriale HD
-http://nl1cdn.plusx.tv:8889/294/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Canal+ Sport" tvg-name="Canalplus Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/297/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Canal+ Sport HD
-http://nl1cdn.plusx.tv:8889/297/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2 HD" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/298/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Canal+ Sport 2 HD
-http://nl1cdn.plusx.tv:8889/298/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Canal+ Sport 3 PL" tvg-name="Canal+ Sport 3" tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/340/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Canal+ Sport 3 HD
-http://nl1cdn.plusx.tv:8889/340/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Canal+ Sport 4 PL" tvg-name="Canal+ Sport 4" tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/341/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Canal+ Sport 4 HD
-http://nl1cdn.plusx.tv:8889/341/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Canal+1" tvg-name="CANAL+ 1" tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/302/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Canal+ 1 HD
-http://nl1cdn.plusx.tv:8889/302/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="CBS Europa" tvg-name="CBS Europa HD" tvg-logo="http://logo.plusx.tv/logo/CBS%20Europa%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/291/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,CBS Europa HD
-http://nl1cdn.plusx.tv:8889/291/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="CBS REALITY POLSKA" tvg-name="CBS Reality" tvg-logo="http://logo.plusx.tv/logo/CBS%20Reality.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/290/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,CBS Reality
-http://nl1cdn.plusx.tv:8889/290/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Comedy Central Family" tvg-name="Comedy-Central-Family" tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20Family.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/289/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Comedy Central Family HD
-http://nl1cdn.plusx.tv:8889/289/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon-Network" tvg-logo="http://logo.plusx.tv/logo/Cartoon%20Network%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/293/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,Cartoon Network HD
-http://nl1cdn.plusx.tv:8889/293/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/287/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Cinemax HD
-http://nl1cdn.plusx.tv:8889/287/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/288/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Cinemax 2 HD
-http://nl1cdn.plusx.tv:8889/288/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/286/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Comedy Central HD
-http://nl1cdn.plusx.tv:8889/286/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Crime" tvg-name="Crime and Investigation" tvg-logo="http://logo.plusx.tv/logo/CI%20Polsat.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/285/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,CI Polsat HD
-http://nl1cdn.plusx.tv:8889/285/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="DTX" tvg-name="Discovery Turbo Xtra" tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/274/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,DTX HD
-http://nl1cdn.plusx.tv:8889/274/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Learning" tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/284/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Da Vinci Learning
-http://nl1cdn.plusx.tv:8889/284/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Disco Polo Music" tvg-name="disco-polo-music" tvg-logo="http://logo.plusx.tv/logo/Disco%20Polo%20Music.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/283/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,Disco Polo Music
-http://nl1cdn.plusx.tv:8889/283/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/282/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Discovery Channel HD
-http://nl1cdn.plusx.tv:8889/282/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Discovery Historia" tvg-name="Discovery Historia" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Historia.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/281/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Discovery Historia
-http://nl1cdn.plusx.tv:8889/281/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Discovery Life" tvg-name="Discovery Life" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Life.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/280/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Discovery Life HD
-http://nl1cdn.plusx.tv:8889/280/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Science%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/279/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Discovery Science HD
-http://nl1cdn.plusx.tv:8889/279/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://logo.plusx.tv/logo/Disney%20Channel%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/278/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,Disney Channel HD
-http://nl1cdn.plusx.tv:8889/278/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Disney Junior" tvg-name="Disney Jr" tvg-logo="http://logo.plusx.tv/logo/Disney+Junior.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/277/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,Disney Junior
-http://nl1cdn.plusx.tv:8889/277/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/276/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,Disney XD
-http://nl1cdn.plusx.tv:8889/276/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TopKidsJr.pl" tvg-name="Junior Music" tvg-logo="http://epg.ovh/logo/Junior+Music.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/325jun/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,Junior Music
-http://nl1cdn.plusx.tv:8889/325jun/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Domo+" tvg-name="Domo TV" tvg-logo="http://logo.plusx.tv/logo/Domo+.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/275/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Domo+
-http://nl1cdn.plusx.tv:8889/275/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/273/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,E! Entertainment HD
-http://nl1cdn.plusx.tv:8889/273/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/271/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Eleven Sports 1 HD
-http://nl1cdn.plusx.tv:8889/271/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/270/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Eleven Sports 2 HD
-http://nl1cdn.plusx.tv:8889/270/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/269/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Eleven Sports 3 HD
-http://nl1cdn.plusx.tv:8889/269/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/272/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Eleven Sports 4 HD
-http://nl1cdn.plusx.tv:8889/272/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Epic Drama" tvg-name="Be1 Alt" tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/268/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Epic Drama HD
-http://nl1cdn.plusx.tv:8889/268/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Eska TV" tvg-name="EPIC Drama HD" tvg-logo="http://logo.plusx.tv/logo/Eska%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/267/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,Eska TV
-http://nl1cdn.plusx.tv:8889/267/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Eska TV Extra" tvg-name="Eska TV Extra" tvg-logo="http://logo.plusx.tv/logo/Eska+TV+Extra.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/265/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,Eska TV Extra
-http://nl1cdn.plusx.tv:8889/265/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Eska Rock TV" tvg-name="EskaROCK TV" tvg-logo="http://logo.plusx.tv/logo/Eska+Rock+TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/266/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,Eska Rock TV
-http://nl1cdn.plusx.tv:8889/266/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/264/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Eurosport 1 HD
-http://nl1cdn.plusx.tv:8889/264/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/263/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Eurosport 2 HD
-http://nl1cdn.plusx.tv:8889/263/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Extreme Sports Channel" tvg-name="Extreme Sports" tvg-logo="http://logo.plusx.tv/logo/Extreme%20Sports%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/262/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Extreme Sports HD
-http://nl1cdn.plusx.tv:8889/262/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Sportklub" tvg-name="Sport Klub" tvg-logo="http://logo.plusx.tv/logo/Sportklub.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/175/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,SportKlub HD
-http://nl1cdn.plusx.tv:8889/175/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="FIGHTKLUB" tvg-name="FightKlub" tvg-logo="http://logo.plusx.tv/logo/FightKlub%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/260/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,FightKlub HD
-http://nl1cdn.plusx.tv:8889/260/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="FightBox" tvg-name="FightBox" tvg-logo="http://logo.plusx.tv/logo/FightBox%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/261/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,FightBox HD
-http://nl1cdn.plusx.tv:8889/261/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Filmbox Family" tvg-name="FilmBox Family" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Family.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/256/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Filmbox Family
-http://nl1cdn.plusx.tv:8889/256/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="FilmBox Action" tvg-name="FilmBox Action" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/259/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Filmbox Action
-http://nl1cdn.plusx.tv:8889/259/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Filmbox Arthouse" tvg-name="Filmbox Arthouse" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Arthouse.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/258/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Filmbox Arthouse
-http://nl1cdn.plusx.tv:8889/258/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Filmbox Extra HD" tvg-name="FilmBox Extra" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Extra.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/257/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Filmbox Extra
-http://nl1cdn.plusx.tv:8889/257/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Filmbox Premium" tvg-name="FilmBox Premium" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/255/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Filmbox Premium HD
-http://nl1cdn.plusx.tv:8889/255/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Fokus TV" tvg-name="Fokus TV" tvg-logo="http://logo.plusx.tv/logo/Fokus%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/254/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Fokus TV
-http://nl1cdn.plusx.tv:8889/254/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://logo.plusx.tv/logo/Food%20Network%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/253/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Food Network HD
-http://nl1cdn.plusx.tv:8889/253/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="FOX Comedy" tvg-name="Fox Comedy" tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/250/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,FOX Comedy HD
-http://nl1cdn.plusx.tv:8889/250/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="FOX" tvg-name="FOX (HD)" tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/249/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,FOX HD
-http://nl1cdn.plusx.tv:8889/249/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="http://logo.plusx.tv/logo/Golf%20Channel.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/248/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Golf Channel HD
-http://nl1cdn.plusx.tv:8889/248/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="History 2" tvg-name="H2" tvg-logo="http://logo.plusx.tv/logo/H2%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/247/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,H2 HD
-http://nl1cdn.plusx.tv:8889/247/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/243/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,HBO HD
-http://nl1cdn.plusx.tv:8889/243/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/246/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,HBO 2 HD
-http://nl1cdn.plusx.tv:8889/246/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="HBO3" tvg-name="HBO 3" tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/245/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,HBO 3 HD
-http://nl1cdn.plusx.tv:8889/245/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://logo.plusx.tv/logo/HGTV%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/241/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,HGTV HD
-http://nl1cdn.plusx.tv:8889/241/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="http://logo.plusx.tv/logo/History%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/240/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,History HD
-http://nl1cdn.plusx.tv:8889/240/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="ID" tvg-name="Investigation Discovery" tvg-logo="http://logo.plusx.tv/logo/ID%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/239/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,ID HD
-http://nl1cdn.plusx.tv:8889/239/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska%20Muzyka.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/237/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,Kino Polska Muzyka
-http://nl1cdn.plusx.tv:8889/237/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Kino Polska" tvg-name="Kino Polska" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/238/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Kino Polska HD
-http://nl1cdn.plusx.tv:8889/238/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Kino TV" tvg-name="Kino TV" tvg-logo="http://logo.plusx.tv/logo/Kino%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/236/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Kino TV
-http://nl1cdn.plusx.tv:8889/236/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Kuchnia+" tvg-name="Kuchnia.TV" tvg-logo="http://logo.plusx.tv/logo/Kuchnia+%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/235/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Kuchnia+ HD
-http://nl1cdn.plusx.tv:8889/235/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://logo.plusx.tv/logo/Lifetime%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/234/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Lifetime HD
-http://nl1cdn.plusx.tv:8889/234/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Motowizja" tvg-name="Motowizja TV" tvg-logo="http://logo.plusx.tv/logo/Motowizja%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/230/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Motowizja HD
-http://nl1cdn.plusx.tv:8889/230/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="http://logo.plusx.tv/logo/MTV%20Live%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/229/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,MTV Live HD
-http://nl1cdn.plusx.tv:8889/229/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="MTV Music 24" tvg-name="MTV Music Polska" tvg-logo="http://logo.plusx.tv/logo/MTV%20Music.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/228/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,MTV Music
-http://nl1cdn.plusx.tv:8889/228/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="MTV Polska" tvg-name="MTV" tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/227/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,MTV Polska HD
-http://nl1cdn.plusx.tv:8889/227/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="MTV90s.pl" tvg-name="MTV 90s" tvg-logo="http://epg.ovh/logo/MTV+Rocks.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/325mtv/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,MTV 90s
-http://nl1cdn.plusx.tv:8889/325mtv/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="METRO" tvg-name="Metro" tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/232/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,Metro
-http://nl1cdn.plusx.tv:8889/232/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Minimini+" tvg-name="Mini Mini" tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/231/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,MiniMini+ HD
-http://nl1cdn.plusx.tv:8889/231/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="NTL Radomsko" tvg-name="NTL Radomsko" tvg-logo="http://logo.plusx.tv/logo/NTL%20Radomsko.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/214/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,NTL Radomsko
-http://nl1cdn.plusx.tv:8889/214/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="nsport+" tvg-name="nSport" tvg-logo="http://logo.plusx.tv/logo/nSport+%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/215/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,nSport+ HD
-http://nl1cdn.plusx.tv:8889/215/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Nat Geo People" tvg-name="Nat Geo People" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20People%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/225/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Nat Geo People HD
-http://nl1cdn.plusx.tv:8889/225/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="National Geographic Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/223/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Nat Geo Wild HD
-http://nl1cdn.plusx.tv:8889/223/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="National Geographic Channel" tvg-name="National Geographic" tvg-logo="http://logo.plusx.tv/logo/National%20Geographic%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/221/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,National Geographic HD
-http://nl1cdn.plusx.tv:8889/221/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/220/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,Nick Jr
-http://nl1cdn.plusx.tv:8889/220/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Nicktoons" tvg-name="Nickelodeon HD" tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/218/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,Nicktoons HD
-http://nl1cdn.plusx.tv:8889/218/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Nickelodeon" tvg-name="Nickelodeon Polska" tvg-logo="http://logo.plusx.tv/logo/Nickelodeon.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/219/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,Nickelodeon
-http://nl1cdn.plusx.tv:8889/219/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Nuta TV" tvg-name="Nuta TV" tvg-logo="http://logo.plusx.tv/logo/Nuta%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/213/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,Nuta TV
-http://nl1cdn.plusx.tv:8889/213/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="NOWA TV" tvg-name="Nowa TV" tvg-logo="http://logo.plusx.tv/logo/NOWA%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/216/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,Nowa TV
-http://nl1cdn.plusx.tv:8889/216/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Novelas TV" tvg-name="Novelas TV" tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/135/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,Novelas+
-http://nl1cdn.plusx.tv:8889/2022/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/212/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Paramount Channel HD
-http://nl1cdn.plusx.tv:8889/212/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="NOVELA TV" tvg-name="Novela TV" tvg-logo="http://93.159.131.123/netmar/insert/img/programy/novelatv.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/217/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Novela TV
-http://nl1cdn.plusx.tv:8889/217/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Planete+" tvg-name="Planete" tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/211/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Planete+ HD
-http://nl1cdn.plusx.tv:8889/211/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polo TV" tvg-name="PoloTV" tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/210/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,Polo TV
-http://nl1cdn.plusx.tv:8889/210/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Rodzina" tvg-name="Polsat Rodzina" tvg-logo="http://logo.plusx.tv/logo/Polsat+Rodzina.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/197/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Polsat Rodzina HD
-http://nl1cdn.plusx.tv:8889/197/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Games" tvg-name="Polsat Games" tvg-logo="http://logo.plusx.tv/logo/Polsat+Games.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/204/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Polsat Games HD
-http://nl1cdn.plusx.tv:8889/204/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat 2" tvg-name="Polsat 2" tvg-logo="http://logo.plusx.tv/logo/Polsat%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/208/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,Polsat 2 HD
-http://nl1cdn.plusx.tv:8889/208/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Cafe" tvg-name="Polsat Cafe" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Cafe%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/207/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Polsat Cafe HD
-http://nl1cdn.plusx.tv:8889/207/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Doku" tvg-name="Polsat Doku" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Doku%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/206/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Polsat Doku HD
-http://nl1cdn.plusx.tv:8889/206/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Film" tvg-name="Polsat Film" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/205/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Polsat Film HD
-http://nl1cdn.plusx.tv:8889/205/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat" tvg-name="Polsat" tvg-logo="http://logo.plusx.tv/logo/Polsat%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/203/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,Polsat HD
-http://nl1cdn.plusx.tv:8889/203/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="JimJam Polsat" tvg-name="JimJam" tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/202/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,JimJam Polsa
-http://nl1cdn.plusx.tv:8889/202/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Music" tvg-name="Polsat Music" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/201/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,Polsat Music HD
-http://nl1cdn.plusx.tv:8889/201/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="POLSAT NEWS 2" tvg-name="Polsat News 2" tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/200/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Informacje" ,Polsat News 2
-http://nl1cdn.plusx.tv:8889/200/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat News" tvg-name="Polsat News" tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/199/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Informacje" ,Polsat News HD
-http://nl1cdn.plusx.tv:8889/199/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Play" tvg-name="Polsat Play" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Play%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/198/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Polsat Play HD
-http://nl1cdn.plusx.tv:8889/198/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="POLSAT ROMANS" tvg-name="Polsat Romans" tvg-logo="https://satkurier.pl/uploads/79469.jpg" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/196/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Polsat Seriale HD
-http://nl1cdn.plusx.tv:8889/196/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport Extra" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Extra%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/195/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Polsat Sport Extra HD
-http://nl1cdn.plusx.tv:8889/195/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/194/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Polsat Sport Fight HD
-http://nl1cdn.plusx.tv:8889/194/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Sport" tvg-name="Polsat Sport" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/193/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Polsat Sport HD
-http://nl1cdn.plusx.tv:8889/193/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Sport News" tvg-name="Polsat Sport News" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20News%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/192/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Polsat Sport News HD
-http://nl1cdn.plusx.tv:8889/192/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Sport Premium 1" tvg-name="Polsat Sport Premium 1" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+1a.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/191/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Polsat Sport Premium 1 HD
-http://nl1cdn.plusx.tv:8889/191/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Sport Premium 2" tvg-name="Polsat Sport Premium 2" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+2a.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/190/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Polsat Sport Premium 2 HD
-http://nl1cdn.plusx.tv:8889/190/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Sport Premium 3" tvg-name="Polsat Sport Premium 3" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+3.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/189/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Polsat Sport Premium 3 HD
-http://nl1cdn.plusx.tv:8889/189/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Sport Premium 4" tvg-name="Polsat Sport Premium 4" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+4.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/188/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Polsat Sport Premium 4 HD
-http://nl1cdn.plusx.tv:8889/188/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Sport Premium 5" tvg-name="Polsat Sport Premium 5" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+5.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/187/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Polsat Sport Premium 5 HD
-http://nl1cdn.plusx.tv:8889/187/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Sport Premium 6" tvg-name="Polsat Sport Premium 6" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+6.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/186/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,Polsat Sport Premium 6 HD
-http://nl1cdn.plusx.tv:8889/186/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Viasat History" tvg-name="Viasat History" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20History%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/184/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Polsat Viasat History HD
-http://nl1cdn.plusx.tv:8889/184/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="POLSAT Viasat Explore" tvg-name="Viasat Explorer" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/185/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Polsat Viasat Explore HD
-http://nl1cdn.plusx.tv:8889/185/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polsat Viasat Nature" tvg-name="Viasat Nature" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Nature%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/183/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Polsat Viasat Nature HD
-http://nl1cdn.plusx.tv:8889/183/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="POWER TV" tvg-name="Power TV" tvg-logo="http://logo.plusx.tv/logo/Power%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/182/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,Power TV
-http://nl1cdn.plusx.tv:8889/182/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Polonia 1" tvg-name="Polonia 1" tvg-logo="http://epg.ovh/logo/Polonia+1.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/209/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,Polonia 1
-http://nl1cdn.plusx.tv:8889/209/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Puls 2" tvg-name="TV Puls 2" tvg-logo="http://logo.plusx.tv/logo/Puls%202.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/180/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,Puls 2
-http://nl1cdn.plusx.tv:8889/180/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Red Carpet TV" tvg-name="Red Carpet TV" tvg-logo="http://epg.ovh/logo/Red+Carpet+TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/179/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Red Carpet TV
-http://nl1cdn.plusx.tv:8889/179/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Superstacja" tvg-name="Superstacja" tvg-logo="http://logo.plusx.tv/logo/Superstacja.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/170/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Informacje" ,Superstacja
-http://nl1cdn.plusx.tv:8889/170/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="ROMANCE TV" tvg-name="Romance TV" tvg-logo="http://logo.plusx.tv/logo/Romance%20TV%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/178/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Romance TV HD
-http://nl1cdn.plusx.tv:8889/178/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Scifi Universal" tvg-name="SciFi" tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/177/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,SciFi HD
-http://nl1cdn.plusx.tv:8889/177/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Stars TV" tvg-name="Stars TV" tvg-logo="http://logo.plusx.tv/logo/Stars%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/174/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,Stars TV
-http://nl1cdn.plusx.tv:8889/174/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" tvg-logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/173/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Stopklatka TV
-http://nl1cdn.plusx.tv:8889/173/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Sundance TV" tvg-name="Sundance Channel HD" tvg-logo="http://logo.plusx.tv/logo/Sundance%20TV%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/172/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,Sundance TV HD
-http://nl1cdn.plusx.tv:8889/172/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Super Polsat" tvg-name="Super Polsat" tvg-logo="http://logo.plusx.tv/logo/Super%20Polsat%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/171/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,Super Polsat HD
-http://nl1cdn.plusx.tv:8889/171/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="StudioMed TV HD" tvg-name="StudioMed TV" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/342/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,StudioMed TV HD
-http://nl1cdn.plusx.tv:8889/342/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Teletoon" tvg-name="Teletoon+" tvg-logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/168/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,Teletoon+ HD
-http://nl1cdn.plusx.tv:8889/168/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://logo.plusx.tv/logo/TLC%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/167/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,TLC HD
-http://nl1cdn.plusx.tv:8889/167/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Tele 5" tvg-name="Tele 5" tvg-logo="http://epg.ovh/logo/Tele+5.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/169/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,Tele 5
-http://nl1cdn.plusx.tv:8889/169/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://logo.plusx.tv/logo/TNT%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/166/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,TNT HD
-http://nl1cdn.plusx.tv:8889/166/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVN Fabula" tvg-name="TVN Fabula" tvg-logo="http://logo.plusx.tv/logo/TVN%20Fabula%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/150/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,TVN Fabula HD
-http://nl1cdn.plusx.tv:8889/150/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="VOD 205" tvg-name="VOD 205" tvg-logo="http://logo.plusx.tv/logo/VOD+205.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/127/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,VOD 205
-http://nl1cdn.plusx.tv:8889/127/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="VOD 206" tvg-name="VOD 206" tvg-logo="http://logo.plusx.tv/logo/VOD+206.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/126/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,VOD 206
-http://nl1cdn.plusx.tv:8889/126/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="VOD 207" tvg-name="VOD 207" tvg-logo="http://logo.plusx.tv/logo/VOD+207.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/125/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,VOD 207
-http://nl1cdn.plusx.tv:8889/125/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="VOD 208" tvg-name="VOD 208" tvg-logo="http://logo.plusx.tv/logo/VOD+208.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/124/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Film" ,VOD 208
-http://nl1cdn.plusx.tv:8889/124/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="To!TV" tvg-name="TO!TV" tvg-logo="http://logo.plusx.tv/logo/TO!TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/165/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,TOTV
-http://nl1cdn.plusx.tv:8889/165/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TTV" tvg-name="TTV" tvg-logo="http://logo.plusx.tv/logo/TTV%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/162/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,TTV HD
-http://nl1cdn.plusx.tv:8889/162/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TV OKAZJE" tvg-name="TV Okazje HD" tvg-logo="http://logo.plusx.tv/logo/TV%20Okazje.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/159/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,TV Okazje
-http://nl1cdn.plusx.tv:8889/159/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TV Puls" tvg-name="TV Puls" tvg-logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/158/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TV Puls HD
-http://nl1cdn.plusx.tv:8889/158/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Republika TV" tvg-name="TV Republika" tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/157/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Informacje" ,TV Republika
-http://nl1cdn.plusx.tv:8889/157/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TV 4" tvg-name="TV4" tvg-logo="http://logo.plusx.tv/logo/TV%204.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/161/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TV 4 HD
-http://nl1cdn.plusx.tv:8889/161/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TV 6" tvg-name="TV 6" tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/160/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TV 6 HD
-http://nl1cdn.plusx.tv:8889/160/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVN 24 BiS" tvg-name="TVN CNBC Biznes" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/154/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Informacje" ,TVN 24 BiS HD
-http://nl1cdn.plusx.tv:8889/154/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVN 24" tvg-name="TVN 24" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/153/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Informacje" ,TVN 24 HD
-http://nl1cdn.plusx.tv:8889/153/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVN 7" tvg-name="TVN 7" tvg-logo="http://logo.plusx.tv/logo/TVN%207%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/152/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVN 7 HD
-http://nl1cdn.plusx.tv:8889/152/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://logo.plusx.tv/logo/TVN%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/149/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVN HD
-http://nl1cdn.plusx.tv:8889/149/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVN Style" tvg-name="TVN Style" tvg-logo="http://logo.plusx.tv/logo/TVN%20Style%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/147/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,TVN Style HD
-http://nl1cdn.plusx.tv:8889/147/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVN Turbo" tvg-name="TVN Turbo" tvg-logo="http://logo.plusx.tv/logo/TVN%20Turbo%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/145/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,TVN Turbo HD
-http://nl1cdn.plusx.tv:8889/145/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP HD" tvg-name="TVP HD" tvg-logo="http://logo.plusx.tv/logo/TVP%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/141/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVP HD
-http://nl1cdn.plusx.tv:8889/141/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP 1" tvg-name="TVP 1" tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/144/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVP 1 HD
-http://nl1cdn.plusx.tv:8889/144/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP 2" tvg-name="TVP 2" tvg-logo="http://logo.plusx.tv/logo/TVP%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/143/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVP 2 HD
-http://nl1cdn.plusx.tv:8889/143/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP 3 Warszawa" tvg-name="TVP3" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/142/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVP 3
-http://nl1cdn.plusx.tv:8889/142/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVPDokument.pl" tvg-name="TVPDokument.pl" tvg-logo="https://epg.ovh/logo/TVP+Dokument.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/1901/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVP Dokument HD
-http://nl1cdn.plusx.tv:8889/1901/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP ABC" tvg-name="TVP-ABC" tvg-logo="http://logo.plusx.tv/logo/TVP%20ABC.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/151/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dla Dzieci" ,TVP ABC
-http://nl1cdn.plusx.tv:8889/151/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP Historia" tvg-name="TVP Historia" tvg-logo="http://logo.plusx.tv/logo/TVP%20Historia.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/140/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVP Historia
-http://nl1cdn.plusx.tv:8889/140/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP Info" tvg-name="TVP-Info" tvg-logo="http://logo.plusx.tv/logo/TVP%20Info.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/139/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Informacje" ,TVP Info HD
-http://nl1cdn.plusx.tv:8889/139/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP Kultura" tvg-name="TVP-Kultura" tvg-logo="http://logo.plusx.tv/logo/TVP%20Kultura.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/138/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVP Kultura
-http://nl1cdn.plusx.tv:8889/138/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP Polonia" tvg-name="TVP Regionalna" tvg-logo="http://logo.plusx.tv/logo/TVP%20Polonia.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/137/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVP Polonia
-http://nl1cdn.plusx.tv:8889/137/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP Rozrywka" tvg-name="TVP Rozrywka" tvg-logo="http://logo.plusx.tv/logo/TVP%20Rozrywka.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/136/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVP Rozrywka
-http://nl1cdn.plusx.tv:8889/136/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP Seriale" tvg-name="TVP Seriale" tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/135/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVP Seriale
-http://nl1cdn.plusx.tv:8889/135/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP Wilno" tvg-name="TVP Wilno" tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/135/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVP Wilno HD
-http://nl1cdn.plusx.tv:8889/2021/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVP Sport" tvg-name="TVP Sport" tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/134/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,TVP Sport HD
-http://nl1cdn.plusx.tv:8889/134/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TRWAM" tvg-name="TV Trwam" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/tv_trwam.png?itok=8V3f5AsH" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/338/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TV Trwam
-http://nl1cdn.plusx.tv:8889/338/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVR" tvg-name="TVR" tvg-logo="http://ocdn.eu/images/program-tv/MTY7MDA_/0aa2e07335e47a578c7b1bb0a68f1ff0.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/337/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVR
-http://nl1cdn.plusx.tv:8889/337/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="TVS" tvg-name="TVS (HD)" tvg-logo="http://logo.plusx.tv/logo/TVS.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/132/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,TVS
-http://nl1cdn.plusx.tv:8889/132/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/163/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Rozrywka" ,Travel Channel HD
-http://nl1cdn.plusx.tv:8889/163/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="VH1" tvg-name="VH1 European" tvg-logo="http://logo.plusx.tv/logo/VH1.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/131/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,VH1
-http://nl1cdn.plusx.tv:8889/131/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="Vox Music TV" tvg-name="vox-music-tv" tvg-logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/123/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Muzyka" ,VOX Music TV
-http://nl1cdn.plusx.tv:8889/123/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="WP" tvg-name="WP" tvg-logo="http://logo.plusx.tv/logo/WP.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/121/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,WP
-http://nl1cdn.plusx.tv:8889/121/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="WPolsce.pl" tvg-name="wPolsce.pl" tvg-logo="http://logo.plusx.tv/logo/wPolsce.pl.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/120/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Informacje" ,wPolsce.pl
-http://nl1cdn.plusx.tv:8889/120/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="WATER PLANET" tvg-name="Water Planet" tvg-logo="http://epg.ovh/logo/WATER+PLANET.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/122/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Dokument" ,Water Planet
-http://nl1cdn.plusx.tv:8889/122/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="ZOOM TV" tvg-name="Zoom TV" tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/118/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Popularny" ,Zoom TV
-http://nl1cdn.plusx.tv:8889/118/video.m3u8?token=zofiaczapla12Sara122222
-#EXTINF:0 tvg-id="KSWTV" tvg-name="KSWTV" tvg-logo="" timeshift="5" catchup="default" catchup-source="http://nl1cdn.plusx.tv:48889/325/mono-${start}-${timestamp}.m3u8?token=zofiaczapla12Sara122222" group-title="Sport" ,KSW FAME MMA HD
-http://nl1cdn.plusx.tv:8889/325m/video.m3u8?token=zofiaczapla12Sara122222
+
+#EXTINF:0 tvg-id="TVS.pl" group-title="POLAND",TVS
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43005
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="POLAND",TVP Sport HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43006
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="POLAND",TVP Sport FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43007
+#EXTINF:0 tvg-id="TVPSeriale.pl" group-title="POLAND",TVP SERIALE
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43008
+#EXTINF:0 tvg-id="TVPRozrywka.pl" group-title="POLAND",TVP Rozrywka
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43009
+#EXTINF:0 tvg-id="TVPKultura.pl" group-title="POLAND",TVP Kultura
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43010
+#EXTINF:0 tvg-id="TVPInfo.pl" group-title="POLAND",TVP INFO FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43011
+#EXTINF:0 tvg-id="TVPHistoria.pl" group-title="POLAND",TVP Historia
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43012
+#EXTINF:0 tvg-id="TVPHD.pl" group-title="POLAND",TVP FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43013
+#EXTINF:0 tvg-id="TVPABC.pl" group-title="POLAND",TVP ABC
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43014
+#EXTINF:0 tvg-id="TV6.pl" group-title="POLAND",TV6
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43015
+#EXTINF:0 tvg-id="TV4.pl" group-title="POLAND",TV4 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43016
+#EXTINF:0 tvg-id="TVrepublika.pl" group-title="POLAND",TV Republika
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43017
+#EXTINF:0 tvg-id="TVPuls.pl" group-title="POLAND",TV PULS FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43018
+#EXTINF:0 tvg-id="TVP3.pl" group-title="POLAND",TVP 3
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43019
+#EXTINF:0 tvg-id="TVP2.pl" group-title="POLAND",TVP 2 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43020
+#EXTINF:0 tvg-id="TVP1.pl" group-title="POLAND",TVP 1 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43021
+#EXTINF:0 tvg-id="ext" group-title="POLAND",TVN24 BiS FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43022
+#EXTINF:0 tvg-id="TVNTurbo.pl" group-title="POLAND",TVN Turbo FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43023
+#EXTINF:0 tvg-id="TVNStyle.pl" group-title="POLAND",TVN Style FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43024
+#EXTINF:0 tvg-id="TVN.pl" group-title="POLAND",TVN FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43025
+#EXTINF:0 tvg-id="TVNFabula.pl" group-title="POLAND",TVN Fabula
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43026
+#EXTINF:0 tvg-id="TVN7.pl" group-title="POLAND",TVN 7 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43027
+#EXTINF:0 tvg-id="TVN24.pl" group-title="POLAND",TVN 24 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43028
+#EXTINF:0 tvg-id="ext" group-title="POLAND",TV Okazje
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43029
+#EXTINF:0 tvg-id="TTV.PL" group-title="POLAND",TTV FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43030
+#EXTINF:0 tvg-id="TCM.pl" group-title="POLAND",TNT FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43031
+#EXTINF:0 tvg-id="TLC.pl" group-title="POLAND",TLC FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43032
+#EXTINF:0 tvg-id="Superstacja.pl" group-title="POLAND",Superstacja
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43033
+#EXTINF:0 tvg-id="SuperPolsat.pl" group-title="POLAND",Super Polsat
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43034
+#EXTINF:0 tvg-id="Tele5.pl" group-title="POLAND",TELE 5
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43035
+#EXTINF:0 tvg-id="NutaTV.pl" group-title="POLAND",Nuta TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43036
+#EXTINF:0 tvg-id="Teletoon.pl" group-title="POLAND",TeleTOON+ FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43037
+#EXTINF:0 tvg-id="nsport.pl" group-title="POLAND",NSport+
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43038
+#EXTINF:0 tvg-id="wPolsce.pl" group-title="POLAND",WPolsce.pl
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43039
+#EXTINF:0 tvg-id="ZoomTV.pl" group-title="POLAND",Zoom TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43040
+#EXTINF:0 tvg-id="WP.pl" group-title="POLAND",WP
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43041
+#EXTINF:0 tvg-id="VoxMusicTV.pl" group-title="POLAND",VOX Music TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43042
+#EXTINF:0 tvg-id="NovelaTV.pl" group-title="POLAND",NOVELA TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43043
+#EXTINF:0 tvg-id="VH1European.pl" group-title="POLAND",VH1
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43044
+#EXTINF:0 tvg-id="ext" group-title="POLAND",VOD 208
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43045
+#EXTINF:0 tvg-id="ext" group-title="POLAND",VOD 207
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43046
+#EXTINF:0 tvg-id="ext" group-title="POLAND",VOD 206
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43047
+#EXTINF:0 tvg-id="ext" group-title="POLAND",VOD 205
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43048
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Da Vinci
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43049
+#EXTINF:0 tvg-id="Travel.pl" group-title="POLAND",Travel Channel FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43050
+#EXTINF:0 tvg-id="SundanceChannel.pl" group-title="POLAND",Sundance FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43051
+#EXTINF:0 tvg-id="StopklatkaTV.pl" group-title="POLAND",Stopklatka
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43052
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Sportklub FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43053
+#EXTINF:0 tvg-id="ext" group-title="POLAND",SciFi FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43054
+#EXTINF:0 tvg-id="StarsTV.pl" group-title="POLAND",Stars TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43055
+#EXTINF:0 tvg-id="RomanceTV.pl" group-title="POLAND",Romance TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43056
+#EXTINF:0 tvg-id="RedCarpetTV.pl" group-title="POLAND",Red Carpet TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43057
+#EXTINF:0 tvg-id="TVPuls2.pl" group-title="POLAND",Puls 2
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43058
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Polsat Viasat Nature FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43059
+#EXTINF:0 tvg-id="ViasatHistory.pl" group-title="POLAND",Polsat Viasat History FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43060
+#EXTINF:0 tvg-id="ViasatExplorer.pl" group-title="POLAND",Polsat Viasat Explore FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43061
+#EXTINF:0 tvg-id="PolsatSportNews.pl" group-title="POLAND",Polsat Sport News FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43062
+#EXTINF:0 tvg-id="PolsatSport.pl" group-title="POLAND",Polsat Sport FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43063
+#EXTINF:0 tvg-id="PolsatSportFight.pl" group-title="POLAND",Polsat Sport Fight HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43064
+#EXTINF:0 tvg-id="PolsatSportFight.pl" group-title="POLAND",Polsat Sport Fight FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43065
+#EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="POLAND",Polsat Sport Extra HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43066
+#EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="POLAND",Polsat Sport Extra FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43067
+#EXTINF:0 tvg-id="ZoneRomantica.pl" group-title="POLAND",Polsat Romans
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43068
+#EXTINF:0 tvg-id="PolsatRodzina.pl" group-title="POLAND",Polsat Rodzina
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43069
+#EXTINF:0 tvg-id="JimJam.pl" group-title="POLAND",Polsat Jim Jam
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43070
+#EXTINF:0 tvg-id="PolsatDoku.pl" group-title="POLAND",Polsat Doku FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43071
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Polsat Comedy Central Extra
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43072
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Polsat Seriale
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43073
+#EXTINF:0 tvg-id="PolsatPlay.pl" group-title="POLAND",Polsat Play HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43074
+#EXTINF:0 tvg-id="PolsatPlay.pl" group-title="POLAND",Polsat Play FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43075
+#EXTINF:0 tvg-id="PolsatNews.pl" group-title="POLAND",Polsat News FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43076
+#EXTINF:0 tvg-id="PolsatNews2.pl" group-title="POLAND",Polsat News 2
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43077
+#EXTINF:0 tvg-id="PolsatMusic.pl" group-title="POLAND",Polsat Music FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43078
+#EXTINF:0 tvg-id="PolsatGames.pl" group-title="POLAND",Polsat Games
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43079
+#EXTINF:0 tvg-id="PolsatFilm.pl" group-title="POLAND",Polsat Film FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43080
+#EXTINF:0 tvg-id="PolsatCafe.pl" group-title="POLAND",Polsat Cafe FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43081
+#EXTINF:0 tvg-id="Polsat2.pl" group-title="POLAND",Polsat 2 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43082
+#EXTINF:0 tvg-id="Polsat.pl" group-title="POLAND",Polsat FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43083
+#EXTINF:0 tvg-id="ext" group-title="POLAND",KSW PPV FHD [ Match Time ]
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43084
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Polsat Sport Premium PPV 6
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43085
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Polsat Sport Premium PPV 5
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43086
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Polsat Sport Premium PPV 4
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43087
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Polsat Sport Premium PPV 3
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43088
+#EXTINF:0 tvg-id="PolsatSportPremium2.pl" group-title="POLAND",Polsat Sport Premium 2 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43089
+#EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="POLAND",Polsat Sport Premium 1 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43090
+#EXTINF:0 tvg-id="PoloTV.pl" group-title="POLAND",Polo TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43091
+#EXTINF:0 tvg-id="PLANETE.pl" group-title="POLAND",Planete+ FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43092
+#EXTINF:0 tvg-id="Paramount.pl" group-title="POLAND",Paramount Channel FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43093
+#EXTINF:0 tvg-id="NickelodeonHD.pl" group-title="POLAND",Nicktoons FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43094
+#EXTINF:0 tvg-id="NickPolska.pl" group-title="POLAND",Nickelodeon
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43095
+#EXTINF:0 tvg-id="NickJr.pl" group-title="POLAND",Nick Jr
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43096
+#EXTINF:0 tvg-id="NowaTV.pl" group-title="POLAND",Nowa TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43097
+#EXTINF:0 tvg-id="NatGeoPeople.pl" group-title="POLAND",Nat Geo People FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43098
+#EXTINF:0 tvg-id="ext" group-title="POLAND",National Geographic Wild FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43099
+#EXTINF:0 tvg-id="NationalGeographic.pl" group-title="POLAND",NATIONAL GEO FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43100
+#EXTINF:0 tvg-id="Motowizja.pl" group-title="POLAND",Motowizja FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43101
+#EXTINF:0 tvg-id="ext" group-title="POLAND",MTV Rocks
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43102
+#EXTINF:0 tvg-id="MTV.pl" group-title="POLAND",MTV Polska FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43103
+#EXTINF:0 tvg-id="ext" group-title="POLAND",MTV Music 24
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43104
+#EXTINF:0 tvg-id="MTVNHD.pl" group-title="POLAND",MTV Live FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43105
+#EXTINF:0 tvg-id="MINIMINI.pl" group-title="POLAND",MiniMini+ FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43106
+#EXTINF:0 tvg-id="Metro.pl" group-title="POLAND",Metro
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43107
+#EXTINF:0 tvg-id="Lifetime.pl" group-title="POLAND",Lifetime FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43108
+#EXTINF:0 tvg-id="KUCHNIA.TV.pl" group-title="POLAND",Kuchnia+ FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43109
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Kino TV FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43110
+#EXTINF:0 tvg-id="KinoPolskaMuzyka.pl" group-title="POLAND",Kino Polska Muzyka
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43111
+#EXTINF:0 tvg-id="ext" group-title="POLAND",KINO POLSKA FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43112
+#EXTINF:0 tvg-id="InvestigationDiscovery.pl" group-title="POLAND",ID FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43113
+#EXTINF:0 tvg-id="HGTV.pl" group-title="POLAND",HGTV FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43114
+#EXTINF:0 tvg-id="ext" group-title="POLAND",History 2 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43115
+#EXTINF:0 tvg-id="History.pl" group-title="POLAND",History FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43116
+#EXTINF:0 tvg-id="HBO3.pl" group-title="POLAND",HBO3 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43117
+#EXTINF:0 tvg-id="HBO2.pl" group-title="POLAND",HBO2 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43118
+#EXTINF:0 tvg-id="HBO.pl" group-title="POLAND",HBO FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43119
+#EXTINF:0 tvg-id="GolfChannel.pl" group-title="POLAND",Golf Channel
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43120
+#EXTINF:0 tvg-id="PolsatFood.pl" group-title="POLAND",Food Network FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43121
+#EXTINF:0 tvg-id="FokusTV.pl" group-title="POLAND",Fokus TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43122
+#EXTINF:0 tvg-id="FoxComedy.pl" group-title="POLAND",Fox Comedy FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43123
+#EXTINF:0 tvg-id="FoxComedy.pl" group-title="POLAND",Fox Comedy
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43124
+#EXTINF:0 tvg-id="Fox.pl" group-title="POLAND",FOX FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43125
+#EXTINF:0 tvg-id="Fox.pl" group-title="POLAND",FOX
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43126
+#EXTINF:0 tvg-id="FilmboxPremium.pl" group-title="POLAND",Filmbox Premium FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43127
+#EXTINF:0 tvg-id="FilmboxArthouse.pl" group-title="POLAND",Filmbox Arthouse
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43128
+#EXTINF:0 tvg-id="FilmboxFamily.pl" group-title="POLAND",FilmBox Family
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43129
+#EXTINF:0 tvg-id="FilmboxExtra.pl" group-title="POLAND",FilmBox Extra FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43130
+#EXTINF:0 tvg-id="FilmboxAction.pl" group-title="POLAND",FilmBox Action
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43131
+#EXTINF:0 tvg-id="FightBox.pl" group-title="POLAND",Fightbox FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43132
+#EXTINF:0 tvg-id="FightKlub.pl" group-title="POLAND",Fightklub FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43133
+#EXTINF:0 tvg-id="ExtremeSports.pl" group-title="POLAND",Extreme Sports HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43134
+#EXTINF:0 tvg-id="ExtremeSports.pl" group-title="POLAND",Extreme Sports FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43135
+#EXTINF:0 tvg-id="Eurosport2.pl" group-title="POLAND",Eurosport 2 HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43136
+#EXTINF:0 tvg-id="Eurosport2.pl" group-title="POLAND",Eurosport 2 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43137
+#EXTINF:0 tvg-id="Eurosport.pl" group-title="POLAND",Eurosport 1 HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43138
+#EXTINF:0 tvg-id="Eurosport.pl" group-title="POLAND",Eurosport 1 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43139
+#EXTINF:0 tvg-id="EskaTVExtra.pl" group-title="POLAND",Eska TV Extra
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43140
+#EXTINF:0 tvg-id="EskaTV.pl" group-title="POLAND",Eska TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43141
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Eska Rock
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43142
+#EXTINF:0 tvg-id="EPICDramaHD.pl" group-title="POLAND",Epic Drama FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43143
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="POLAND",ELEVEN SPORTS 4 HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43144
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="POLAND",ELEVEN SPORTS 4 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43145
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="POLAND",Eleven Sports 3 HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43146
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="POLAND",Eleven Sports 3 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43147
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="POLAND",Eleven Sports 2 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43148
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="POLAND",Eleven Sports 1 HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43149
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="POLAND",Eleven Sports 1 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43150
+#EXTINF:0 tvg-id="E!.pl" group-title="POLAND",E! Entertainment FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43151
+#EXTINF:0 tvg-id="DisneyXD.pl" group-title="POLAND",Disney XD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43152
+#EXTINF:0 tvg-id="DisneyJr.pl" group-title="POLAND",Disney Junior
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43153
+#EXTINF:0 tvg-id="DisneyChannel.pl" group-title="POLAND",Disney Channel FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43154
+#EXTINF:0 tvg-id="DiscoveryLife.pl" group-title="POLAND",Discovery Life FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43155
+#EXTINF:0 tvg-id="DiscoveryHistoria.pl" group-title="POLAND",Discovery Historia
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43156
+#EXTINF:0 tvg-id="DiscoveryScience.pl" group-title="POLAND",Discovery Science FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43157
+#EXTINF:0 tvg-id="Discovery.pl" group-title="POLAND",Discovery FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43158
+#EXTINF:0 tvg-id="DiscoPoloMusic.pl" group-title="POLAND",Disco Polo Music
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43159
+#EXTINF:0 tvg-id="DiscoveryTurboXtra.pl" group-title="POLAND",DTX FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43160
+#EXTINF:0 tvg-id="DomoTV.pl" group-title="POLAND",DOMO+ FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43161
+#EXTINF:0 tvg-id="ComedyCentral.pl" group-title="POLAND",Comedy Central FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43162
+#EXTINF:0 tvg-id="Cinemax2.pl" group-title="POLAND",Cinemax 2 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43163
+#EXTINF:0 tvg-id="CinemaxHD.pl" group-title="POLAND",Cinemax FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43164
+#EXTINF:0 tvg-id="CartoonNetwork.pl" group-title="POLAND",Cartoon Network FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43165
+#EXTINF:0 tvg-id="ext" group-title="POLAND",CI Polsat FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43166
+#EXTINF:0 tvg-id="ext" group-title="POLAND",CBS Reality FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43167
+#EXTINF:0 tvg-id="CBSEuropa.pl" group-title="POLAND",CBS Europa FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43168
+#EXTINF:0 tvg-id="CanalplusFilm2.pl" group-title="POLAND",Canal+ Seriale FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43169
+#EXTINF:0 tvg-id="ext" group-title="POLAND",CANAL+ SPORT 3 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43170
+#EXTINF:0 tvg-id="ext" group-title="POLAND",CANAL+ SPORT 4 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43171
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="POLAND",Canal+ Sport 2 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43172
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Canal+ Sport 1 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43173
+#EXTINF:0 tvg-id="CanalplusFilm.pl" group-title="POLAND",CANAL+ FILM FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43174
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Canal+ Premium FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43175
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Canal+ Now FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43176
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Canal+1 FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43177
+#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="POLAND",Canal+ Family FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43178
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Canal+ Dokument FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43179
+#EXTINF:0 tvg-id="ext" group-title="POLAND",Boomerang FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43180
+#EXTINF:0 tvg-id="CBeebies.pl" group-title="POLAND",BBC Cbeebies
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43181
+#EXTINF:0 tvg-id="BBCBrit.pl" group-title="POLAND",BBC Brit FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43182
+#EXTINF:0 tvg-id="ext" group-title="POLAND",BBC FIRST FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43183
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="POLAND",BBC Earth FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43184
+#EXTINF:0 tvg-id="AleKino.pl" group-title="POLAND",Ale kino+ FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43185
+#EXTINF:0 tvg-id="ATMRozrywka.pl" group-title="POLAND",ATM Rozrywka TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43186
+#EXTINF:0 tvg-id="AMC.pl" group-title="POLAND",AMC FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43187
+#EXTINF:0 tvg-id="AnimalPlanetHD.pl" group-title="POLAND",Animal Planet FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43188
+#EXTINF:0 tvg-id="Adventure.pl" group-title="POLAND",Adventure FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43189
+#EXTINF:0 tvg-id="ActiveFamily.pl" group-title="POLAND",Active Family
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43190
+#EXTINF:0 tvg-id="AXNWhite.pl" group-title="POLAND",AXN White
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43191
+#EXTINF:0 tvg-id="AXNSpinHD.pl" group-title="POLAND",AXN SPIN FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43192
+#EXTINF:0 tvg-id="AXNBlack.pl" group-title="POLAND",AXN Black
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43193
+#EXTINF:0 tvg-id="AXN.pl" group-title="POLAND",AXN
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43194
+#EXTINF:0 tvg-id="AXN.pl" group-title="POLAND",AXN FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43195
+#EXTINF:0 tvg-id="4fun.pl" group-title="POLAND",4Fun.TV
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43196
+#EXTINF:0 tvg-id="4FunGoldHits.pl" group-title="POLAND",4Fun Gold Hits
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43197
+#EXTINF:0 tvg-id="4FunDance.pl" group-title="POLAND",4Fun Dance
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43198
+#EXTINF:0 tvg-id="13Ulica.pl" group-title="POLAND",13 Ulica FHD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43199
+#EXTINF:0 tvg-id="PolsatSport.pl" group-title="POLAND",Polsat Sport HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43200
+#EXTINF:0 tvg-id="PolsatSportNews.pl" group-title="POLAND",Polsat Sport News HD
+http://wagmaott.com:8080/mag00:1A:79:A5:4B:1D/GqlugfGKQE/43201
